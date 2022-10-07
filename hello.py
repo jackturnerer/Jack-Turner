@@ -1,2 +1,2 @@
-text = "hello there!"
+text = "goodbye"
 print(text)
